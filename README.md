@@ -21,3 +21,4 @@ Gauss Seidel para matrizes
   ```
   Veja os arquivos .txt para ver os modelos de entrada.
   
+  O script irá gerar um arquivo "resposta.txt" com a resposta do problema. 
